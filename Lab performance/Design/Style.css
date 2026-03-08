@@ -1,0 +1,124 @@
+body{
+      
+     background-color: azure;
+
+}
+
+h1{
+  color: black;
+  font-size: 56px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: bold;
+  text-align:left;
+}
+
+#FirstName{
+font-size: 20px;;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: black;
+text-align:left;
+}
+label{
+font-size: 20px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:black;
+}
+.navbar{
+font-size:40px;
+
+}
+
+{
+ color: black;
+text-align:left;
+}
+#LastName{
+    Font-size:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-align:right;
+}
+labe2{
+font-size: 20px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:black;
+}
+.navbar{
+font-size:40px;
+
+}
+
+{
+ color: black;
+text-align:Right;
+}
+#Email{
+    Font-size:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-align:Left;
+}
+labe3{
+font-size: 20px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:black;
+}
+.navbar{
+font-size:40px;
+
+}
+
+{
+ color: black;
+text-align:left;
+}
+Phone Number{
+    Font-size:20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-align:right;
+}
+labe4{
+font-size: 20px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:black;
+}
+.navbar{
+font-size:40px;
+
+}
+
+{
+ color: black;
+text-align:Right;
+}
+What do you have in mind{
+    Font-size:30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    text-align:right;
+}
+Submit{
+   Font-size:30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(241, 227, 227);
+    text-align:center;
+}
+
+form{
+width;700px;
+border:10px;
+border-radius;20px;
+margin: 0;
+padding:50px;
+background-color:azure;
+}
+ 
+input[type="radio"]
+{
+font-size:50px;
+align-content: center;
+padding: 0 auto;
+margin:20px;
+
+}
